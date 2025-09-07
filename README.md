@@ -29,8 +29,7 @@ The dataset includes information about:
 * **Expert Level courses** are the most expensive
 
 ## 🔹 Dashboard Preview
-
-![Dashboard Screenshot](Udemy Courses Analysis.jpg)
+![Dashboard Visualization](Udemy Courses Analysis.jpg)
 
 The dashboard includes:
 
